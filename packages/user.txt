@@ -16,4 +16,5 @@ jq
 openjdk-8-jdk
 openssh-server
 virtualbox-qt
+vlc
 xclip
