@@ -1,7 +1,10 @@
 #!/usr/bin/env fish
 
+fish_vi_key_bindings
+
 abbr s 'sed -nr \'s///p'\'
-set -U fish_user_paths ~/.local/bin 
+
+set -U fish_user_paths ~/.local/bin
 set -U fish_color_normal normal
 set -U fish_color_command F8F8F2
 set -U fish_color_quote F1FA8C
