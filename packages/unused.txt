@@ -1,0 +1,11 @@
+atril
+blueman
+firefox
+gnome-firmware
+magnus
+mate-power-manager
+onboard
+orca
+plank
+pluma
+system-config-printer
